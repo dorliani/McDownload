@@ -8,6 +8,14 @@ The user can create their own account, login and check their orders.
 
 ## Technologies Used
 
+### Front-End
+
+- HTML5
+- CSS3
+- React.js
+
+### NPM Packages
+
 - HTML5
 - CSS3
 - Javascript
