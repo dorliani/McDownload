@@ -4,6 +4,8 @@ This is a React app that lets you build and customize a burger. It has a Node.js
 
 The user can create their own account, login and check their orders.
 
+![burger](https://user-images.githubusercontent.com/61431197/94928644-ab608100-04cc-11eb-8ca7-89fc6dd91ab1.png)
+
 ## Technologies Used
 
 - HTML5
