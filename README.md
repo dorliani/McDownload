@@ -6,12 +6,12 @@ The user can create their own account, login and check their orders.
 
 ## Technologies Used
 
-HTML5
-CSS3
-Javascript
-Node.js
-Axios
-Firebase
-Redux
-enzyme
-Jest
+- HTML5
+- CSS3
+- Javascript
+- Node.js
+- Axios
+- Firebase
+- Redux
+- enzyme
+- Jest
